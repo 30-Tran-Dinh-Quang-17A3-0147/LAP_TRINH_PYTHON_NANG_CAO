@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<College>
+    <ten-sv>
+        <tensv>Nguyen Van A</tensv>
+        <namsinh> 2000 </namsinh>
+        <gioitinh> nam </gioitinh>
+    </ten-sv>
+</College>
